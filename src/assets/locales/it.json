@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "sudo-flix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. sudo-flix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
+    "description": "Leaf Cinema si basa su sudo-flix che è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. sudo-flix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
     "faqTitle": "Domande comuni",
     "q1": {
       "body": "sudo-flix non ospita alcun contento. Quando clicci su qualcosa da guardare, sudo-flix cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da sudo-flix, tutto è attraverso questo meccanismo di ricerca.",
